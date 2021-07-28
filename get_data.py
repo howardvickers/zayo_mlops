@@ -1,5 +1,6 @@
 import os
 import wget
+print('running get_data.py')
 
 # data from https://www.sciencedirect.com/science/article/pii/S2352340920303048
 
